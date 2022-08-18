@@ -1,5 +1,5 @@
 # CISSP®️ Certification Domain 5: Identity and Access Management (IAM) Video Boot Camp for 2022
-This is the code repository for [CISSP®️ Certification Domain 5: Identity and Access Management (IAM) Video Boot Camp for 2022 [Video]](https://subscription.packtpub.com/video/application-development/9781838647711), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [CISSP®️ Certification Domain 5: Identity and Access Management (IAM) Video Boot Camp for 2022 [Video]](https://www.packtpub.com/product/cissp-certification-domain-5-identity-and-access-management-iam-video-boot-camp-for-2022/9781838647711?_ga=2.40445730.1821478721.1660805166-1836380341.1660805166), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 ### We teach you the 4 things you need to pass your CISSP exam!
 
